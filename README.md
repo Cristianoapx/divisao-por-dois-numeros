@@ -10,7 +10,7 @@ class Hello
    int num2;
    int soma;
 
-   Console.WriteLine("qual será o peimeiro número.?!");
+   Console.WriteLine("qual será o primeiro número.?!");
    num1 = int.Parse(Console.ReadLine());
    Console.WriteLine("Agora digite o segundo numero!");
    num2 = int.Parse(Console.ReadLine());
